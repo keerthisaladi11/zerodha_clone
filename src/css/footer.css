@@ -1,0 +1,9 @@
+.footer{
+    display: flex;
+    padding: 25px 60px;
+    justify-content: space-between;
+    background-color: #fbfbfb;
+}
+#second,#third,#fourth{
+    color:#424242
+}
